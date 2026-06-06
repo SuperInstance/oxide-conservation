@@ -1,0 +1,11 @@
+[package]
+name = "oxide-conservation"
+version = "0.1.0"
+edition = "2021"
+description = "Conservation law verification for GPU computations — energy, mass, and information conservation across kernel boundaries"
+license = "MIT"
+repository = "https://github.com/SuperInstance/oxide-conservation"
+keywords = ["gpu", "conservation", "verification", "ternary", "compute"]
+categories = ["science", "mathematics", "algorithms"]
+
+[dependencies]
